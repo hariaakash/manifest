@@ -36,7 +36,7 @@ body {
   }
 }
 section {
-  padding: 150px 0;
+  padding: 50px 0;
 }
 @media (max-width: 991px) {
   section {
@@ -63,7 +63,7 @@ section {
   width: 100px;
   height: 1px;
   margin: 20px 0 20px;
-  background: #555555;
+  /* background: #555555; */
 }
 .img-responsive {
   margin: 0 auto;
@@ -143,16 +143,19 @@ p.social a i {
   line-height: 38px;
 }
 p.social a.facebook {
-  background-color: #ccc;
+  background-color: #333;
+}
+p.social a.youtube {
+  background-color: #333;
 }
 p.social a.gplus {
   background-color: #333;
 }
 p.social a.twitter {
-  background-color: #aaa;
+  background-color: #333;
 }
 p.social a.instagram {
-  background-color: #999;
+  background-color: #333;
 }
 p.social a.email {
   background-color: #666;
